@@ -26,10 +26,10 @@ ___
 ![About](./cool-pages/previews/About.png)
 ### Add a Note
 ![Adding](./cool-pages/previews/AddNote.png)
-![Added](./previews/Added.png)
+![Added](./cool-pages/previews/Added.png)
 ### Update Note
 ![Updating](./cool-pages/previews/UpdateNote.png)
-![Updated](./previews/Updated.png)
+![Updated](./cool-pages/previews/Updated.png)
 ### Delete Note
 ![Delete](./cool-pages/previews/Delete.png)
 ___
