@@ -35,8 +35,8 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/adarsh-2201/Cool-Pages
+>https : https://github.com/ashish-2201/Cool-Pages
 ```bash
-    git clone https://github.com/adarsh-2201/Cool-Pages.git
+    git clone https://github.com/ashish-2201/Cool-Pages.git
 ```
 ___
